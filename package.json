@@ -1,0 +1,28 @@
+{
+  "name": "pslbot",
+  "version": "1.0.0",
+  "description": "Bot for Proton Splat League",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jnguyen95/pslbot.git"
+  },
+  "keywords": [
+    "psl"
+  ],
+  "author": "Justin Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jnguyen95/pslbot/issues"
+  },
+  "homepage": "https://github.com/jnguyen95/pslbot#readme",
+  "dependencies": {
+    "discord.js": "^14.6.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.28.0"
+  }
+}
